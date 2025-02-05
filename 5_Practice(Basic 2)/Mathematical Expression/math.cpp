@@ -3,7 +3,7 @@
 
     ---> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
 
-    --> Try to Solve yourself before watch the solution
+    --> Try to Solve yourself before see the solution
 
 */
 
